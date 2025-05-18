@@ -12,4 +12,4 @@ I'm Pavlo, a student, studying for a degree in Software Engineering.<br>Passiona
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 
 </picture>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=100&section=footer"/>
