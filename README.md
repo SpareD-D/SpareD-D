@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=Hey%20Everyone!&fontSize=90&fontColor=363636"/>
 
-I'm Pavlo, a student, studying for a bachelor's degree in Software Engineering.<br>Passionate about building innovative applications and solving complex problems. <br>This is my space for sharing projects, experiments, and ideas.
+I'm Pavlo, a student, studying for a degree in Software Engineering.<br>Passionate about building innovative applications and solving complex problems. <br>This is my space for sharing projects, experiments, and ideas.
 
 
 # 💻 Tech Stack:
@@ -12,4 +12,4 @@ I'm Pavlo, a student, studying for a bachelor's degree in Software Engineering.<
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 
 </picture>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=header&text=Hey%20Everyone!&fontSize=90&fontColor=363636"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=300&section=footer"/>
